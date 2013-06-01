@@ -5,5 +5,7 @@ Project structure based on great `toro` code
 
 .. _toro: https://github.com/ajdavis/toro
 
+.. image:: https://travis-ci.org/wsantos/tauth.png
+        :target: https://travis-ci.org/wsantos/tauth
 
 WIP
