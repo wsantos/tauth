@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+*.so
+*.class
+*~
+*egg
+build/
+/dist/
+MANIFEST
+*egg-info
+_auto2to3*
+.tox/
+.vagrant
+/.coverage
+/htmlcov/
+/env/
