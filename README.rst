@@ -1,7 +1,7 @@
 Tornado Auth Module
 ===================
 
-Project structure based on great `toro` code
+Project structure based on great `toro`_ code
 
 .. _toro: https://github.com/ajdavis/toro
 
