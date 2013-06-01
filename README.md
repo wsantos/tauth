@@ -1,4 +1,0 @@
-tauth
-=====
-
-Tornado Auth Module
